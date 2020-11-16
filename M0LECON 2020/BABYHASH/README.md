@@ -31,6 +31,7 @@ Author: @matpro
 	```
 	- Bài toán đặt ra ở đây sẽ là: chúng ta sẽ tìm và nhập 2 biến `username` & `password` (tạm thay bằng `m`, `n` tương ứng) sao cho: 
 		- (x<sup>m</sup> % p)\*(y<sup>n</sup> % p) % p == `server_hash` 
+		
 	- **Hay 1 cách dễ hiểu đề bài sẽ là: với `p`, `x`, `y`, `a`, `b` cho trước, tìm `m`, `n` (lần lượt khác `a`, `b`) sao cho:** 
 		- ***x<sup>a</sup> . y<sup>b</sup> ≡ x<sup>m</sup> . y<sup>n</sup> (mod p)***
 		
