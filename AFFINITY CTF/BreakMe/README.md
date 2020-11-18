@@ -108,7 +108,7 @@ def modinv(a, m):
     else:
         return x % m
 ```
-- Sau khi đã có `d` rồi, việc còn lại là giải mã thôi. Nhưng trước tiên phải mở file [encrypted](problem/encrypted.txt) ra, lấy nội dung bên trong chuyển thành số nguyên rồi mới áp dụng công thức giải mã được: m = c<sup>d</sup> (mod n).
+- Sau khi đã có `d` rồi, việc còn lại là giải mã thôi. Nhưng trước tiên phải mở file [encrypted.txt](problem/encrypted.txt) ra, lấy nội dung bên trong chuyển thành số nguyên rồi mới áp dụng công thức giải mã được: m = c<sup>d</sup> (mod n).
 <img src=assets/p3.png>
 
 - Và lúc này ta đã có:
