@@ -60,7 +60,7 @@ Can you help me to recover the content of the file?
 ---> Đấy thế là bạn đã hiểu phần nào về RSA rồi đấy, bây giờ đã đủ tự tin để làm cái đề kia thôi :xD
 
 ## Solve Crypto problem
-- Đề bài cho chúng ta 2 file: [encrypted](problem/encrypted.txt) và [public.pem](problem/public.pem)
+- Đề bài cho chúng ta 2 file: [encrypted.txt](problem/encrypted.txt) và [public.pem](problem/public.pem)
 
 - Vừa nhìn vào cái đuôi file `.pem` là nghĩ ngay đến RSA rồi. Bây giờ cùng nhìn xem file `public_key` bên trong nó sẽ như thế nào nhá :excited_icon
 <img src=assets/p1.png>
