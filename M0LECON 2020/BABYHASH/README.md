@@ -7,7 +7,7 @@ Author: @matpro
 [CHALLENGE.PY]
 ```
 # Solution
-
+ 
 - Vì đây là bài writeup đầu tiên của mình về mảng **Crypto**  nên có thể sẽ  không đầy đủ như ý đồ của tác giả.  Tuy nhiên mình sẽ cố gắng viết chi tiết một tí.
 - Đầu tiên khi vào bài này, tác giả cho chúng ta 1 file [challenge.py](problem/challenge.py)
 - File code đó tương đối dài nên mình sẽ tóm tắt những ý quan trọng về nội dung của file code đó:
