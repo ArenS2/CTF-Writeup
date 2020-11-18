@@ -148,7 +148,7 @@ e1 = 79871076793700741133958703119866436054
 e2 = 297452792678365151939346760860803354174
 coeff = 43340310015875206124799642386915239847
 ```
-- Khi đó chúng ta sẽ được file [config.conf](solve/config) như thế này:
+- Khi đó chúng ta sẽ được file [config.conf](solve/config.conf) như thế này:
 ```sh
 asn1=SEQUENCE:rsa_key
 
