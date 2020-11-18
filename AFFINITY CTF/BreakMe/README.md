@@ -118,8 +118,10 @@ c = 7480620007071043042843884731650731184720223056505860892185084203119174330942
 d = 52563235496868154743721179285926106867856121268586368115409795819089744895137
 ```
 - Áp dụng công thức giải mã: m = c<sup>d</sup> (mod n) ta tính ngay ra được:
- 
-`d = 3998731487633352107852441255033768239881091376738602013454220231226719498`. Việc còn lại là chuyển số này thành chuỗi kí tự là xong.
+```sh
+d = 3998731487633352107852441255033768239881091376738602013454220231226719498
+```
+- Việc còn lại là chuyển số này thành chuỗi kí tự là xong.
 <img src=assets/p4.png>
 
 - Cuối cùng `flag` sẽ là **AFFCTF{PermRecord}**. (Đoạn chuyển flag từ `int` sang `string` cẩn thận tí nhé :vv) 
