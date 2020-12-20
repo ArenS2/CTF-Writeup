@@ -45,6 +45,7 @@ nên giải pháp sẽ là thay kí tự `space` bằng `${IFS}`.
 	- Cứ thế tương tự cho các hàm tiếp theo mà search tiếp nhưng chẳng thu được kết quả gì :TT 
 
 - **Hướng 3: Tận dụng wget đề cho**
+
 		```sh
 		$command = "wget -q -O - https://kuhi.to/flag/" . $flag;
 		$cmd_output = array();
